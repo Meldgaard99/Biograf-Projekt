@@ -1,0 +1,5 @@
+C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.csproj.AssemblyReference.cache
+C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.AssemblyInfoInputs.cache
+C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.AssemblyInfo.cs
+C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.csproj.CoreCompileInputs.cache

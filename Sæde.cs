@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modul08
-{
+
     internal class Sæde
     {
 
@@ -26,4 +25,4 @@ namespace Modul08
             return $" Rækkenummer = {RækkeNummer}, Sædenummer = {SædeNummer}, reserveret = {SeatIsReserved}";
         }
     }
-}
+

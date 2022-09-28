@@ -4,34 +4,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modul08
-{
+
     internal class Arrangement
     {
         public string Navn { get; set; }
         public string ArrangementType { get; set; }
         public int ArrangementId { get; set; }
-        public int MaxRækker;
-        public int MaxSæder;
-
+        
         public List<Sæde> Sæder = new List<Sæde>();
 
-        public Arrangement(int maxRækker = 0, int maxSæder = 0, string navn = "", string arrangementType = "", int arrangementId = 0)
+        public Arrangement(Sal sal, int maxRækker = 0, int maxSæder = 0, string navn = "", string arrangementType = "", int arrangementId = 0)
         {
             this.Navn = navn;
             this.ArrangementType = arrangementType;
             this.ArrangementId = arrangementId;
-            this.MaxRækker = Sal.MaxRækker;
+            LavSæder(sal);
+        
             
         }
 
         
 
-        public void LavSæder()
+        public void LavSæder(Sal sal)
         {
-            for (int i=1; i<=MaxRækker; i++)
+            for (int i=1; i<=sal.MaxRækker; i++)
             {
-                for(int f = 1; f <= MaxSæder; f++)
+                for(int f = 1; f <= sal.MaxSæder; f++)
                 {
                     Sæde sæde = new Sæde(rækkeNummer:i, sædeNummer:f);
                     Sæder.Add(sæde);
@@ -45,4 +43,4 @@ namespace Modul08
 
         
     }
-}
+
