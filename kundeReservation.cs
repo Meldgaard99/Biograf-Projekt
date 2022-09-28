@@ -24,7 +24,11 @@ internal class KundeReservation: Kunde
 
     // Metoder
 
+    public override string ToString()
+    {
+        return $" Sal nr. = {SalNr}, Antal Reserverede pladser = {AntalPladserReserveret}, Tidspunkt for reservation: {ReservationDato}, ID for reservation {ArrangementID}";
 
+    }
 
 
 
