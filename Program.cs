@@ -1,5 +1,4 @@
-﻿
-using Modul08;
+﻿using System;
 
 Sal sal1 = new Sal(maxRækker: 5, maxSæder: 5);
 
@@ -12,3 +11,4 @@ foreach (Sæde s in arrangement1.Sæder)
 {
     Console.WriteLine(s);
 }
+

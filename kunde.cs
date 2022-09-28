@@ -9,7 +9,7 @@
     public string Adresse { get; set; }
     public int Telefon { get; set; }
     public string Email { get; set; }
-    public List<KundeReservation> AntalReservationer = new List<KundeReservation>(); // Virker ikke?
+     List<KundeReservation> AntalReservationer = new List<KundeReservation>(); // Virker ikke?
 
 
 // Constructor

@@ -7,10 +7,10 @@ public class Biograf
 
 
     List<Sal> Autoværksted = new List<Sal>();
-    List<kunde> Autoværksted2 = new List<Kunde>();
+    List<Kunde> Autoværksted2 = new List<Kunde>();
     List<Arrangement> Autoværksted3 = new List<Arrangement>();
 
-    f
+    
     public Biograf(string Navn = "")
     {
         Navn = Navn;
