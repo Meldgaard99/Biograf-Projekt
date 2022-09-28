@@ -12,9 +12,10 @@
         {
         MaxRækker = maxRækker;
         MaxSæder = maxSæder;
+        Console.WriteLine("test");
             
         }
-
+    
          
 
     override public String ToString()
