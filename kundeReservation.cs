@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 //Class
 internal class KundeReservation: Kunde 
@@ -32,10 +33,12 @@ internal class KundeReservation: Kunde
     {
         foreach(Sæde s in arrangement.Sæder)
         {
-            if(ValgtSæde == s.SædeNummer && ValgtRække == s.RækkeNummer)
+            if (ValgtSæde == s.SædeNummer && ValgtRække == s.RækkeNummer && s.SeatIsReserved == false)
             {
                 s.SeatIsReserved = true;
+                AntalPladserReserveret++;
             }
+            else throw new Exception("Seat is reserved");
         }
     }
 
