@@ -18,8 +18,14 @@ internal class KundeReservation: Kunde
         SalNr = salNr;
         AntalPladserReserveret = antalPladserReserveret;
         ArrangementID = arrangementID;
+        //ReserverSæder(Arrangement);
 
     }
+
+    /*public void ReserverSæder(Arrangement arrangement)
+    {
+
+    }*/
 
 
     // Metoder

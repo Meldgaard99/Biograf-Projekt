@@ -12,7 +12,6 @@
         {
         MaxRækker = maxRækker;
         MaxSæder = maxSæder;
-        Console.WriteLine("test");
             
         }
     
