@@ -5495,19 +5495,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/rasmusmeldgaard/.nuget/packages/": {}
+    "/Users/mortenlund/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rasmusmeldgaard/Desktop/skole-project/Biograf-Projekt/Biograf-Projekt.csproj",
+      "projectUniqueName": "/Users/mortenlund/Desktop/VS/Modul08/Biograf-Projekt/Biograf-Projekt.csproj",
       "projectName": "Biograf-Projekt",
-      "projectPath": "/Users/rasmusmeldgaard/Desktop/skole-project/Biograf-Projekt/Biograf-Projekt.csproj",
-      "packagesPath": "/Users/rasmusmeldgaard/.nuget/packages/",
-      "outputPath": "/Users/rasmusmeldgaard/Desktop/skole-project/Biograf-Projekt/obj/",
+      "projectPath": "/Users/mortenlund/Desktop/VS/Modul08/Biograf-Projekt/Biograf-Projekt.csproj",
+      "packagesPath": "/Users/mortenlund/.nuget/packages/",
+      "outputPath": "/Users/mortenlund/Desktop/VS/Modul08/Biograf-Projekt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rasmusmeldgaard/.nuget/NuGet/NuGet.Config"
+        "/Users/mortenlund/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5556,7 +5556,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   },
