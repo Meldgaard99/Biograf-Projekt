@@ -25,7 +25,7 @@ internal class KundeReservation: Kunde
     /*public void ReserverSæder(Arrangement arrangement)
     {
 
-    }*/
+    }*/ 
 
 
     // Metoder
