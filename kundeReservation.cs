@@ -29,19 +29,12 @@ internal class KundeReservation: Kunde {
 
     public void ReserverSæder(Arrangement arrangement){
 
-        int sædeIndex = 0;
-        if (ValgtRække == 1){sædeIndex = 0;}
-        else if (ValgtRække == 2){sædeIndex = 4;}
-        else if (ValgtRække == 3) { sædeIndex = 8; }
-        else if (ValgtRække == 4) { sædeIndex = 12; }
+        int sædeIndex = (ValgtRække-1)*4 + ValgtSæde -1;
 
-
-        if (arrangement.Sæder[sædeIndex+ValgtSæde - 1].SædeNummer == ValgtSæde && arrangement.Sæder[sædeIndex+ValgtRække - 1].RækkeNummer == ValgtRække && arrangement.Sæder[sædeIndex+ValgtSæde - 1].SeatIsReserved == false)
-        {
-            arrangement.Sæder[sædeIndex+ValgtSæde-1].SeatIsReserved = true;
+        if (arrangement.Sæder[sædeIndex].SædeNummer == ValgtSæde && arrangement.Sæder[sædeIndex].RækkeNummer == ValgtRække && arrangement.Sæder[sædeIndex].SeatIsReserved == false){
+            arrangement.Sæder[sædeIndex].SeatIsReserved = true;
         }
-        else
-        {
+        else{
             Console.WriteLine("Desværre sæde reservert eller fejl indtasning");
         }
 
