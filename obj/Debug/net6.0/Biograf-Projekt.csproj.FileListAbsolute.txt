@@ -1,62 +1,124 @@
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.csproj.AssemblyReference.cache
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.AssemblyInfoInputs.cache
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.AssemblyInfo.cs
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.csproj.CoreCompileInputs.cache
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Biograf-Projekt.exe
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Biograf-Projekt.deps.json
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Biograf-Projekt.runtimeconfig.json
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Biograf-Projekt.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Biograf-Projekt.pdb
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.CoreUtility.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Editor.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.LiveShare.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.OLE.Interop.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Shell.Interop.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Text.Data.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Text.Logic.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Text.UI.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Text.UI.Wpf.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.TextManager.Interop.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Threading.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Microsoft.VisualStudio.Validation.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\System.Composition.AttributedModel.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\System.Composition.Convention.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\System.Composition.Hosting.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\System.Composition.Runtime.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\System.Composition.TypedParts.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\cs\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\de\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\es\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\fr\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\it\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\ja\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\ko\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\pl\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\ru\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\tr\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\cs\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\de\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\es\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\fr\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\it\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\ja\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\ko\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\pl\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\ru\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\tr\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.csproj.CopyComplete
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\refint\Biograf-Projekt.dll
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.pdb
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\Biograf-Projekt.genruntimeconfig.cache
-C:\Users\mrlaj\Source\Repos\Biograf-Projekt\obj\Debug\net6.0\ref\Biograf-Projekt.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.csproj.AssemblyReference.cache
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.AssemblyInfoInputs.cache
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.AssemblyInfo.cs
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.csproj.CoreCompileInputs.cache
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.exe
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.deps.json
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.runtimeconfig.json
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.pdb
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.CoreUtility.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Editor.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.LiveShare.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.OLE.Interop.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Shell.Interop.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.Data.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.Logic.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.UI.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.TextManager.Interop.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Threading.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Validation.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/System.Composition.Convention.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/System.Composition.Hosting.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/System.Composition.Runtime.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/System.Composition.TypedParts.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/cs/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/de/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/es/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/fr/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/it/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/ja/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/ko/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/pl/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/ru/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/tr/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.csproj.CopyComplete
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/refint/Biograf-Projekt.dll
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.pdb
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.genruntimeconfig.cache
+C:/Users/mrlaj/Source/Repos/Biograf-Projekt/obj/Debug/net6.0/ref/Biograf-Projekt.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.deps.json
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.runtimeconfig.json
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Biograf-Projekt.pdb
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.CoreUtility.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Editor.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.LiveShare.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.LiveShare.LanguageServices.16.3.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.OLE.Interop.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Shell.Interop.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.Data.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.Logic.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.UI.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Text.UI.Wpf.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.TextManager.Interop.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Threading.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Microsoft.VisualStudio.Validation.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/cs/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/de/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/es/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/fr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/it/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/ja/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/ko/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/pl/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/ru/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/tr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/de/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/es/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/it/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.csproj.AssemblyReference.cache
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.AssemblyInfoInputs.cache
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.AssemblyInfo.cs
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.csproj.CoreCompileInputs.cache
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.csproj.CopyComplete
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/refint/Biograf-Projekt.dll
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.pdb
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/Biograf-Projekt.genruntimeconfig.cache
+/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/Debug/net6.0/ref/Biograf-Projekt.dll

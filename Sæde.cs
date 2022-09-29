@@ -5,8 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-    internal class Sæde
-    {
+    internal class Sæde{
 
         public int RækkeNummer { get; set; }
         public int SædeNummer { get; set; }

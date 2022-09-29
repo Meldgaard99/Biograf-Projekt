@@ -2,8 +2,7 @@
 
 
 // Class
-    public class Kunde
-    {
+    public class Kunde{
 
     public string Navn { get; set; }
     public string Adresse { get; set; }
@@ -13,8 +12,7 @@
 
 
 // Constructor
-        public Kunde(string navn = "", string adresse = "", int telefon = 0, string email = "" )
-        {
+        public Kunde(string navn = "", string adresse = "", int telefon = 0, string email = "" ){
 
         Navn = navn;
         Adresse = adresse;
@@ -26,8 +24,7 @@
 
     // Metoder
 
-    public override string ToString()
-    {
+    public override string ToString(){
         return $" Navn = {Navn}, Adresse = {Adresse}, Telefon = {Telefon}, Email = {Email}"; 
 
     }

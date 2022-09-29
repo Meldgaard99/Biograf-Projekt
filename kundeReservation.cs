@@ -2,8 +2,7 @@
 using System.Linq.Expressions;
 
 //Class
-internal class KundeReservation: Kunde 
-    {
+internal class KundeReservation: Kunde {
 
     public int SalNr { get; set; }
     public int AntalPladserReserveret { get; set; }
@@ -18,8 +17,7 @@ internal class KundeReservation: Kunde
 
 // Constructor
 // Mangler at lave constructor til datetime
-    public KundeReservation(Arrangement arrangement, int salNr = 0, int antalPladserReserveret = 0, int arrangementID = 0 , int valgtSæde = 0, int valgtRække = 0)
-    {
+    public KundeReservation(Arrangement arrangement, int salNr = 0, int antalPladserReserveret = 0, int arrangementID = 0 , int valgtSæde = 0, int valgtRække = 0){
         this.ValgtSæde = valgtSæde;
         this.ValgtRække = valgtRække; 
         SalNr = salNr;
@@ -29,24 +27,34 @@ internal class KundeReservation: Kunde
 
     }
 
-    public void ReserverSæder(Arrangement arrangement)
-    {
-        foreach(Sæde s in arrangement.Sæder)
+    public void ReserverSæder(Arrangement arrangement){
+
+        if (arrangement.Sæder[ValgtSæde-1].SædeNummer == ValgtSæde && arrangement.Sæder[ValgtRække-1].RækkeNummer == ValgtRække && arrangement.Sæder[ValgtSæde-1].SeatIsReserved == false)
         {
-            if (ValgtSæde == s.SædeNummer && ValgtRække == s.RækkeNummer && s.SeatIsReserved == false)
-            {
+            arrangement.Sæder[ValgtSæde-1].SeatIsReserved = true;
+        }
+        else
+        {
+            Console.WriteLine("Desværre sæde reservert eller fejl indtasning");
+        }
+
+        /*
+        foreach(Sæde s in arrangement.Sæder){
+            if (ValgtSæde == s.SædeNummer && ValgtRække == s.RækkeNummer && s.SeatIsReserved == false){
                 s.SeatIsReserved = true;
                 AntalPladserReserveret++;
             }
-            else throw new Exception("Seat is reserved");
         }
+        */
+
+
     }
 
 
     // Metoder
 
-    public override string ToString()
-    {
+    public override string ToString(){
+
         return $" Sal nr. = {SalNr}, Antal Reserverede pladser = {AntalPladserReserveret}, Tidspunkt for reservation: {ReservationDato}, ID for reservation {ArrangementID}";
 
     }
