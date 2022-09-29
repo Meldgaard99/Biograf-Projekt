@@ -30,14 +30,11 @@ internal class KundeReservation: Kunde {
     public void ReserverSæder(Arrangement arrangement){
 
         int sædeIndex = 0;
-        if (ValgtRække == 1)
-        {
-            sædeIndex = 0;
-        }
-        else if (ValgtRække == 2)
-        {
-            sædeIndex = 4;
-        }
+        if (ValgtRække == 1){sædeIndex = 0;}
+        else if (ValgtRække == 2){sædeIndex = 4;}
+        else if (ValgtRække == 3) { sædeIndex = 8; }
+        else if (ValgtRække == 4) { sædeIndex = 12; }
+
 
         if (arrangement.Sæder[sædeIndex+ValgtSæde - 1].SædeNummer == ValgtSæde && arrangement.Sæder[sædeIndex+ValgtRække - 1].RækkeNummer == ValgtRække && arrangement.Sæder[sædeIndex+ValgtSæde - 1].SeatIsReserved == false)
         {
