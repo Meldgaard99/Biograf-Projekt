@@ -29,9 +29,19 @@ internal class KundeReservation: Kunde {
 
     public void ReserverSæder(Arrangement arrangement){
 
-        if (arrangement.Sæder[ValgtSæde-1].SædeNummer == ValgtSæde && arrangement.Sæder[ValgtRække-1].RækkeNummer == ValgtRække && arrangement.Sæder[ValgtSæde-1].SeatIsReserved == false)
+        int sædeIndex = 0;
+        if (ValgtRække == 1)
         {
-            arrangement.Sæder[ValgtSæde-1].SeatIsReserved = true;
+            sædeIndex = 0;
+        }
+        else if (ValgtRække == 2)
+        {
+            sædeIndex = 4;
+        }
+
+        if (arrangement.Sæder[sædeIndex+ValgtSæde - 1].SædeNummer == ValgtSæde && arrangement.Sæder[sædeIndex+ValgtRække - 1].RækkeNummer == ValgtRække && arrangement.Sæder[sædeIndex+ValgtSæde - 1].SeatIsReserved == false)
+        {
+            arrangement.Sæder[sædeIndex+ValgtSæde-1].SeatIsReserved = true;
         }
         else
         {
