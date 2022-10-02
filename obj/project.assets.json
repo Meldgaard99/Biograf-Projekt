@@ -5495,19 +5495,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/christianboes/.nuget/packages/": {}
+    "/Users/rasmusmeldgaard/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/Biograf-Projekt.csproj",
+      "projectUniqueName": "/Users/rasmusmeldgaard/Desktop/skole-project/Biograf-Projekt/Biograf-Projekt.csproj",
       "projectName": "Biograf-Projekt",
-      "projectPath": "/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/Biograf-Projekt.csproj",
-      "packagesPath": "/Users/christianboes/.nuget/packages/",
-      "outputPath": "/Users/christianboes/Library/Mobile Documents/com~apple~CloudDocs/Documents/EAAA/2. semester/App-udvikling/Biograf/Biograf-Projekt/obj/",
+      "projectPath": "/Users/rasmusmeldgaard/Desktop/skole-project/Biograf-Projekt/Biograf-Projekt.csproj",
+      "packagesPath": "/Users/rasmusmeldgaard/.nuget/packages/",
+      "outputPath": "/Users/rasmusmeldgaard/Desktop/skole-project/Biograf-Projekt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/christianboes/.nuget/NuGet/NuGet.Config"
+        "/Users/rasmusmeldgaard/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

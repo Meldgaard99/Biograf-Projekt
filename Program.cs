@@ -18,6 +18,46 @@ KundeReservation kundeReservation1 = new KundeReservation(arrangement: arrangeme
 Console.WriteLine("Du har nu reservet din plads");
 kundeReservation1.ToString();
 
+
+Console.Write("Vil du booke en billet mere, tast 1 for Ja og 2 for Nej:  ");
+
+
+
+bool askUser = true;
+
+while (askUser == true)
+{
+
+    string UserInput = Console.ReadLine()!;
+
+    switch (UserInput)
+
+    {
+        case "1":
+            Console.Clear();
+            askUser = false;
+
+            break;
+
+
+        case "2":
+        default:
+
+            {
+                Console.WriteLine("Det er bare i orden ");
+                Console.Clear();
+                askUser = true;
+                break;
+            }
+
+
+       
+            
+        
+    }
+}
+
+
 while (1 > 0) {
 
     Console.WriteLine("Vælg række og sæde");
