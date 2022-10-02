@@ -94,9 +94,17 @@ String BrugerEfternavn = Console.ReadLine()!;
 Console.Clear();
 
 
+/*
+skal kigges igennem, virker ikke
+Console.WriteLine("vælg sal");
+int BrugerValgtSal = int.Parse(Console.ReadLine()!);
 
 
+Sal salvalg = new Sal(valgtsal: BrugerValgtSal);
+Console.WriteLine("Du nu valgt sal");
+salvalg.ToString();
 
+*/
 
 Console.WriteLine($"Vælg række og sæde, {BrugerFornavn} {BrugerEfternavn} ");
 int brugerValgtRække = int.Parse(Console.ReadLine()!);
