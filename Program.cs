@@ -13,85 +13,128 @@ Arrangement arrangement3 = new Arrangement(sal3);
 
 
 
+while (1 == 1) {
 
-Console.WriteLine("Hej og velkommen til Bezzo's biograf");
-Console.WriteLine("Du har følgende muligheder:");
-Console.WriteLine("Tast 1 for at se oversigt over sal 1: " );
-Console.WriteLine("Tast 2 for at se oversigt over sal 2: ");
-Console.WriteLine("Tast 3 for at se oversigt over sal 3: ");
-Console.WriteLine("Tast 4 for at booke billetter:  ");
-
-
-
-
-int OversigtNr = int.Parse(Console.ReadLine()!);
+    Console.WriteLine("Hej og velkommen til Bezzo's biograf");
+    Console.WriteLine("Du har følgende muligheder:");
+    Console.WriteLine("Tast 1 for at se oversigt over sal 1: ");
+    Console.WriteLine("Tast 2 for at se oversigt over sal 2: ");
+    Console.WriteLine("Tast 3 for at se oversigt over sal 3: ");
+    Console.WriteLine("Tast 4 for at booke billetter:  ");
 
 
-bool OversigtBool = true; //Laver en bool
-
-while (OversigtBool == true) //Så længe den er true kør den.
-{
+        int OversigtNr = int.Parse(Console.ReadLine()!);
 
 
-    switch (OversigtNr)
-
-    {
+    switch (OversigtNr){
         case 1:
             Console.Clear();
             arrangement1.Sæder.ForEach(Console.WriteLine);
-                OversigtBool = false;
-
-            
             break;
 
 
         case 2:
             Console.Clear();
             arrangement2.Sæder.ForEach(Console.WriteLine);
-             OversigtBool = false;
-
-
             break;
 
         case 3:
             Console.Clear();
             arrangement3.Sæder.ForEach(Console.WriteLine);
-            OversigtBool = false;
-
-
             break;
 
-
-
-
-
         case 4:
-        default:
+            bookBillet();
+            break;
 
-            {
+        default:
+            Console.WriteLine("Det er bare i orden ");
+            Console.Clear();
+            break;
+            
+    }
+
+}
+
+
+void bookBillet(){
+
+
+    Console.WriteLine("Indtast dit fornavn: ");
+    string BrugerFornavn = Console.ReadLine()!;
+
+    Console.WriteLine($"Indat nu dit efternavn, {BrugerFornavn}: ");
+    String BrugerEfternavn = Console.ReadLine()!;
+    Console.Clear();
+
+    Console.WriteLine($"Vælg række og sæde, {BrugerFornavn} {BrugerEfternavn} ");
+    int brugerValgtRække = int.Parse(Console.ReadLine()!);
+    int brugerValgtSæde = int.Parse(Console.ReadLine()!);
+
+
+    Console.WriteLine($"Række: {brugerValgtRække}, Sæde: {brugerValgtSæde}");
+
+
+
+    KundeReservation kundeReservation1 = new KundeReservation(arrangement: arrangement1, valgtRække: brugerValgtRække, valgtSæde: brugerValgtSæde);
+    Console.WriteLine("Du har nu reservet din plads");
+    kundeReservation1.ToString();
+
+
+    Console.Write("Vil du booke en billet mere, tast 1 for Ja og 2 for Nej:  ");
+
+    bool askUser = true; //Laver en bool
+
+    while (askUser == true) //Så længe den er true kør den.
+    {
+
+        string UserInput = Console.ReadLine()!;
+
+        switch (UserInput)
+
+        {
+            case "1":
+                Console.Clear();
+                askUser = false;
+                bookBillet();
+                break;
+
+            case "2":
                 Console.WriteLine("Det er bare i orden ");
                 Console.Clear();
-                OversigtBool = false;
+                askUser = false;
                 break;
-            }
-
-
-
-
-
+            default:
+                Console.WriteLine("Du skrev forkert");
+                break;
+        }
     }
+
+
 }
 
 
 
 
 
-Console.WriteLine("Indtast dit fornavn: ");
-string BrugerFornavn = Console.ReadLine()!;
 
-Console.WriteLine($"Indat nu dit efternavn, {BrugerFornavn}: " );
-String BrugerEfternavn = Console.ReadLine()!;
-Console.Clear();
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
 
 
 /*
@@ -106,57 +149,11 @@ salvalg.ToString();
 
 */
 
-Console.WriteLine($"Vælg række og sæde, {BrugerFornavn} {BrugerEfternavn} ");
-int brugerValgtRække = int.Parse(Console.ReadLine()!);
-int brugerValgtSæde = int.Parse(Console.ReadLine()!);
-
-
-Console.WriteLine($"Række: {brugerValgtRække}, Sæde: {brugerValgtSæde}");
 
 
 
-KundeReservation kundeReservation1 = new KundeReservation(arrangement: arrangement1, valgtRække: brugerValgtRække, valgtSæde: brugerValgtSæde);
-Console.WriteLine("Du har nu reservet din plads");
-kundeReservation1.ToString();
 
 
-Console.Write("Vil du booke en billet mere, tast 1 for Ja og 2 for Nej:  ");
-
-
-
-bool askUser = true; //Laver en bool
-
-while (askUser == true) //Så længe den er true kør den.
-{
-
-    string UserInput = Console.ReadLine()!;
-
-    switch (UserInput)
-
-    {
-        case "1":
-            Console.Clear();
-            askUser = false;
-
-            break;
-
-
-        case "2":
-        default:
-
-            {
-                Console.WriteLine("Det er bare i orden ");
-                Console.Clear();
-                askUser = true;
-                break;
-            }
-
-
-       
-            
-        
-    }
-}
 
 while (1 > 0) {
 
@@ -180,7 +177,3 @@ foreach (Sæde s in arrangement1.Sæder){
     
 
 }
-
-
-
-Console.WriteLine($"God fornøjelse {BrugerFornavn} {BrugerEfternavn}, Dine billetter er følgende {brugerValgtRække} Sæde = {brugerValgtSæde}");
