@@ -8,15 +8,14 @@ using System.Threading.Tasks;
     internal class Arrangement
     {
         public string Navn { get; set; }
-        public string ArrangementType { get; set; }
         public int ArrangementId { get; set; }
-        
+        public Sal angivetSal { get; set; }
+
         public List<Sæde> Sæder = new List<Sæde>();
 
-        public Arrangement(Sal sal, int maxRækker = 0, int maxSæder = 0, string navn = "", string arrangementType = "", int arrangementId = 0)
-        {
+        public Arrangement(Sal sal, int maxRækker = 0, int maxSæder = 0, string navn = "", int arrangementId = 0){
+            this.angivetSal = sal;
             this.Navn = navn;
-            this.ArrangementType = arrangementType;
             this.ArrangementId = arrangementId;
             LavSæder(sal);
         
@@ -25,8 +24,7 @@ using System.Threading.Tasks;
 
         
 
-        public void LavSæder(Sal sal)
-        {
+        public void LavSæder(Sal sal){
             for (int i=1; i<=sal.MaxRækker; i++)
             {
                 for(int f = 1; f <= sal.MaxSæder; f++)
@@ -36,6 +34,10 @@ using System.Threading.Tasks;
                 }
             }
         }
+
+    public void printOversigt(){
+        Sæder.ForEach(Console.WriteLine);
+    }
 
         
 

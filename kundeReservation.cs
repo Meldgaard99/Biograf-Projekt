@@ -29,23 +29,19 @@ internal class KundeReservation: Kunde {
 
     public void ReserverSæder(Arrangement arrangement){
 
-        int sædeIndex = (ValgtRække-1)*4 + ValgtSæde -1;
 
+        //Da vi har en liste af alle sæderne fx i sal1 har vi 8 sæder i listen som spænder fra index 0 til 7 og
+        //derfor gange vi antal af ValgtRække med ...MaxSæder for at springe sædder over tideligere rækker
+        int sædeIndex = (ValgtRække-1) * arrangement.angivetSal.MaxSæder + ValgtSæde -1;
+
+
+        
         if (arrangement.Sæder[sædeIndex].SædeNummer == ValgtSæde && arrangement.Sæder[sædeIndex].RækkeNummer == ValgtRække && arrangement.Sæder[sædeIndex].SeatIsReserved == false){
             arrangement.Sæder[sædeIndex].SeatIsReserved = true;
         }
         else{
             Console.WriteLine("Desværre sæde reservert eller fejl indtasning");
         }
-
-        /*
-        foreach(Sæde s in arrangement.Sæder){
-            if (ValgtSæde == s.SædeNummer && ValgtRække == s.RækkeNummer && s.SeatIsReserved == false){
-                s.SeatIsReserved = true;
-                AntalPladserReserveret++;
-            }
-        }
-        */
 
 
     }
